@@ -3,3 +3,5 @@ spring:
     name: springcloud-config-prod
   profiles:
     active: prod
+config:
+  info: this is prod
