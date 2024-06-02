@@ -4,4 +4,4 @@ spring:
   profiles:
     active: dev
 config:
-  info: this is dev
+  info: this is dev version 2
